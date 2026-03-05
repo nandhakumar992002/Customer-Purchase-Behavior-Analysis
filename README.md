@@ -64,14 +64,9 @@ An **interactive dashboard** was developed using Excel charts and filters to pre
 
 ## Key Insights
 - Customers with **higher income levels** showed a greater likelihood of purchasing bikes.
-- Certain **age groups demonstrated higher purchase rates**.
+- Certain **age groups demonstrated higher purchase rates** (Middle Age).
 - **Commute distance** influenced the probability of buying a bike.
 - Demographic factors like **marital status and occupation** revealed noticeable trends.
 
----
 
-## Project Outcome
-This project demonstrates how **Microsoft Excel can be used for effective data analysis**, from data cleaning to building dashboards that support data-driven decision making.
-
----
 
