@@ -31,11 +31,7 @@ The dataset includes customer attributes such as:
 ---
 
 ## Tools Used
-- **Microsoft Excel**
-- Data Cleaning
-- Pivot Tables
-- Data Visualization
-- Dashboard Design
+- **Microsoft Excel** (Pivot Tables, If Function, Charts)
 
 ---
 
@@ -47,15 +43,14 @@ The dataset includes customer attributes such as:
 - Organized categorical data for easier analysis
 
 ### 2. Data Transformation
-- Created additional fields such as **Age Groups**
+- Created additional fields such as **Age Brackets**
 - Structured the dataset for pivot table analysis
 
 ### 3. Data Analysis
 Pivot tables were used to analyze:
 - Bike purchases by **income level**
-- Bike purchases by **age group**
+- Bike purchases by **age brackets**
 - Bike purchases by **commute distance**
-- Bike purchases by **gender and marital status**
 
 ### 4. Dashboard Creation
 An **interactive dashboard** was developed using Excel charts and filters to present insights visually.
