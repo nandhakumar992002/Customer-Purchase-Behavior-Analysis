@@ -60,6 +60,8 @@ Pivot tables were used to analyze:
 ### 4. Dashboard Creation
 An **interactive dashboard** was developed using Excel charts and filters to present insights visually.
 
+![Bike Sales Dashboard](dashboard.png)
+
 ---
 
 ## Key Insights
